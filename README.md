@@ -1,5 +1,5 @@
 # 💫 About Me:
-Pre-final Year IT <br>Focused on Generative Ai End-to-end Full Stack Software<br>Currently Learning or Building GenAi System , Cloud Architectures<br>And Backend System<br>
+Pre-final Year IT Student <br>Focused on Generative Ai, End-to-end Full Stack Software Application<br>Currently Learning/Building GenAi System , Cloud Architectures<br>And Backend System<br>
 
 
 ## 🌐 Socials:
